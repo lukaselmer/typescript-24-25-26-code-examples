@@ -1,3 +1,3 @@
-# TypeScript 2.1, 2.2, 2.3 Code Examples
+# TypeScript 2.4, 2.5, 2.6 Code Examples
 
-Presentation: https://drive.google.com/open?id=1EamEGnmCiS4DN7G8kR0lSpGHIe2tXVZgy329PKmFxXE
+Presentation: https://docs.google.com/presentation/d/1jpq5_a2bmQg5__Xzcge98H0nVBdxrBVDGlTGvzwFtXw

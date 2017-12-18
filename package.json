@@ -1,12 +1,10 @@
 {
-  "name": "typescript-presentation-21-22-23-examples",
+  "name": "typescript-presentation-24-25-26-examples",
   "version": "0.0.1",
-  "description": "typescript-presentation-21-22-23-examples",
-  "keywords": [
-    "typescript"
-  ],
+  "description": "typescript-presentation-24-25-26-examples",
+  "keywords": ["typescript"],
   "author": "Lukas Elmer <lukas.elmer@gmail.com>",
-  "homepage": "https://github.com/lukaselmer/typescript-presentation-21-22-23-examples",
+  "homepage": "https://github.com/lukaselmer/typescript-presentation-24-25-26-examples",
   "license": "MIT",
   "scripts": {
     "check": "tslint -c tslint.json \"src/**/*.ts\" --fix",
@@ -22,14 +20,14 @@
     "ts-node": "*",
     "tslint": "*",
     "tslint-loader": "*",
-    "typescript": "*"
+    "typescript": "^2.6.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/renuo/typescript-presentation-21-22-23-examples.git"
+    "url": "https://github.com/renuo/typescript-presentation-24-25-26-examples.git"
   },
   "engines": {
     "node": ">= 7.8.0",
-    "npm": ">= 4.2"
+    "npm": ">= 5"
   }
 }
