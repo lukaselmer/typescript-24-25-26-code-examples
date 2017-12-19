@@ -18,12 +18,12 @@ class Greyhound extends Dog {
 
 let animal = new Animal();
 let dog = new Dog();
-let greyhound = new Greyhound();
+const greyhound = new Greyhound();
 
 animal = dog;
 dog = animal;
 
-function makeSound(aDog: Dog) {
+export function makeSound(aDog: Dog) {
   aDog.bark();
 }
 
@@ -69,7 +69,7 @@ const newDog: Dog = dogToDog(dog);
 // let greyhoundArray: Greyhound[] = [new Greyhound(), new Greyhound()];
 
 let animalArray: Animal[] = [new Animal(), new Animal()];
-let dogArray: Dog[] = [new Dog(), new Dog()];
+const dogArray: Dog[] = [new Dog(), new Dog()];
 
 animalArray = dogArray;
 animalArray[0] = new Animal();
